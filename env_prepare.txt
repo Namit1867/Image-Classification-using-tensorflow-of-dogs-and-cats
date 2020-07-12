@@ -1,0 +1,31 @@
+
+THE FOLLOWING IS THE GUIDE TO PREPARE THE WORKING ENVIRONMENT IN WINDOWS FOR THE PROJECT:
+==============================================================================
+
+(FOR MORE INFO WATCH  HOW TO SET ENVIROMENT VIDEO)
+ 
+1. Download Anaconda Navigator through google.
+
+2. Run the application and click on jupyter notebook.
+
+3. make a txt file (requirements.txt) and copy the following and place it into same directory as anaconda has:
+
+tensorflow
+matplotlib
+jupyter
+pandas
+pillow
+scikit-learn
+imageio
+opencv-python
+
+4. Click on new and open the teriminal in jupyter notebook.
+
+5. run the following command to install the required dependencies for project:
+	"pip install -r requirements.txt"
+
+6. wait for the installations to be completed.
+
+6. run "jupyter notebook" command in terminal, this opens up the jupyter notebook in the browser.
+
+7. Then use it.
